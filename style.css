@@ -216,6 +216,7 @@ main
 	order:1;
 	width: auto;
 	padding:0 8rem;
+	bacground-size:cover;
 	background-image: url("images/bg-pattern-desktop.svg");
 
 
